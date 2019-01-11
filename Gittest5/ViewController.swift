@@ -15,6 +15,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
     @IBOutlet var sceneView: ARSCNView!
     
     var firstMasterCommit = "First Master Commit"
+    var firstBranchCommit1 = "First Branch Commit"
     
     override func viewDidLoad() {
         super.viewDidLoad()
