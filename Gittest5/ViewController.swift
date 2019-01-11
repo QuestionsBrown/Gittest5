@@ -16,6 +16,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
     
     var firstMasterCommit = "First Master Commit"
     var firstBranchCommit1 = "First Branch Commit"
+     var secondBranchCommit1 = "Second Branch Commit"
     
     override func viewDidLoad() {
         super.viewDidLoad()
